@@ -16,7 +16,7 @@
 
 Клонируйте репозиторий:
 ```
-git clone https://github.com/ваш-username/ваш-репозиторий.git
+git clone https://github.com/FuriChan0/template_aiogram_bot.git
 cd ваш-репозиторий
 ```
 
