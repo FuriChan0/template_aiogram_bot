@@ -14,12 +14,6 @@
 
 ## 🛠 Установка
 
-Клонируйте репозиторий:
-```
-git clone https://github.com/FuriChan0/template_aiogram_bot.git
-cd ваш-репозиторий
-```
-
 Установите зависимости:
 ```
 pip install aiogram python-dotenv
